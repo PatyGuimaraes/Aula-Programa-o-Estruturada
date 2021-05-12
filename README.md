@@ -1,2 +1,2 @@
-# Aula-Programa-o-Estruturada
+# Aula-Programacao-Estruturada
 Atividades
